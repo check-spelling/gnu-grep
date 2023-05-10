@@ -1700,7 +1700,7 @@
         Removed 'always|never|auto' arguments, not necessary for grep.
         (exclude_pattern): new variable, holder for the file pattern.
         (include_pattern): new variable, hoder for the file pattern.
-        * src/savedir.c: Signature change, take two new argmuments.
+        * src/savedir.c: Signature change, take two new arguments.
         * doc/grep.texi: Document, new options.
         * doc/grep.man: Document, new options.
 
