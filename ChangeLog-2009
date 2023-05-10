@@ -3368,7 +3368,7 @@
         * src/grep.c: reverse back to greping directories,
         One could skip the error message by defining
         SKIP_DIR_ERROR. There is no clear way of doing
-        things, I hope to setle this on the next major release
+        things, I hope to settle this on the next major release
         Thanks Paul Eggert, Eli Zaretskii and gnits for the
         exchange.
 
