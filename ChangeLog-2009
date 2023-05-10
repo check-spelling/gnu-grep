@@ -3427,7 +3427,7 @@
         (setmatcher) [HAVE_SETRLIMIT]: Set re_max_failures so that the
         matcher won't ever overflow the stack.
         (main) [__MSDOS__, _WIN32]: Handle backslashes and drive letters
-        in argv[0], remove the .exe suffix, and downcase the prgram name.
+        in argv[0], remove the .exe suffix, and downcase the program name.
         [O_BINARY]: Pass additional DOS-specific options to getopt_long
         and handle them.  Call stat before attempting to open the file, in
         case it is a directory (DOS will fail the open call for
