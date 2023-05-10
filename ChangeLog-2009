@@ -1712,7 +1712,7 @@
 
 2001-02-09  Alain Magloire
 
-        Patch from Ulrich Drepper to provide hilighting.
+        Patch from Ulrich Drepper to provide highlighting.
 
         * src/grep.c: New option --color.
         (color): New static var.
@@ -1722,7 +1722,7 @@
         to find the offset of the matching string.
         * src/savedir.c: Take advantage of _DIRENT_HAVE_TYPE if supported.
         * src/search.c (EGexecute, Fexecute, Pexecute): Take a new argument
-        when doing exact match for the color hiligting.
+        when doing exact match for the color highlighting.
 
 2000-09-01  Brian Youmans
 
