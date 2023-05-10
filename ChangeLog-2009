@@ -1592,7 +1592,7 @@
 
         * m4/dosfile.m4 (AC_DOSFILE): Move AC_DEFINEs out of AC_CACHE_CHECK.
 
-2001-02-17  Alain Malgoire
+2001-02-17  Alain Magloire
 
         * doc/grep.texi: Document the new options and the new behaviour
         back-references are local.  Use excerpt from Karl Berry regex
