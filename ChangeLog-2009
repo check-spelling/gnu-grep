@@ -1792,7 +1792,7 @@
 
 2000-06-02  Paul Eggert
 
-        Problen noted by Gerald Stoller <gerald_stoller@hotmail.com>
+        Problem noted by Gerald Stoller <gerald_stoller@hotmail.com>
 
         * src/grep.c (main): POSIX says that -q overrides -l, which
         in turn overrides the other output options.  Fix grep to
