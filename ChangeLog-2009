@@ -1457,7 +1457,7 @@
         (xrealloc): Removed using lib/xmalloc.c.
         (xmalloc): Removed using lib/xmalloc.c
         (main): Register with atexit() to check for error on stdout.
-        * configure.in: Check for atexit(), call jm_MALLOC, jm_RELLOC and
+        * configure.in: Check for atexit(), call jm_MALLOC, jm_REALLOC and
         jm_PREREQ_ERROR.
         * tests/bre.awk: Removed the hack to drain the buffer since we
         always fclose(stdout) atexit.
