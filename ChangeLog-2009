@@ -3497,7 +3497,7 @@
         regex package. Change the way the tests were done to be more
         conformant to automake.
 
-        * configure.in: added --disable-regex for folks with their own fuctions.
+        * configure.in: added --disable-regex for folks with their own functions.
 
         * grep-20d : available for testing
 
