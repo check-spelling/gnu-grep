@@ -3333,7 +3333,7 @@
         Suggested by Harald Hanche-Olsen.
 
         * src/grep.c (main): '-f /dev/null' now specifies no patterns
-        and therfore matches nothing.
+        and therefore matches nothing.
         Reported by Jorge Stolfi.
         Patched by Paul Eggert.
 
