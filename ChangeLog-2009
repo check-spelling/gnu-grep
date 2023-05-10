@@ -1407,7 +1407,7 @@
         is put in different compiled structure patterns[]. The patterns
         are given to dfacomp() and kwsmusts() as is.
         (Ecompile): Likewised.
-        (Fcompile): Reverse to the old behaviour of compiling the enire
+        (Fcompile): Reverse to the old behaviour of compiling the entire
         patterns in one shot.
         (EGexecute): If falling to GNU regex for the matching, loop in the
         array of compile patterns[] to find a match.
