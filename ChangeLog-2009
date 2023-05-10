@@ -2208,7 +2208,7 @@
         on pre-OpenVMS 7.x systems; general overhaul.
         * src/getpagesize.h: Reinstate support for different pagesizes on
         VAX and Alpha. Work around problem with DEC C compiler.
-        * src/vms_fab.c: Cast to some assigments; fixed typo argcp vs. argp.
+        * src/vms_fab.c: Cast to some assignments; fixed typo argcp vs. argp.
         * src/vms_fab.h: Added new include files to avoid warnings about
         undefined function prototypes.
         Those patches were provided by Martin P.J. Zinser (zinser@decus.de).
