@@ -2670,7 +2670,7 @@
 
 1999-03-16 Volker Borchert
 
-        * configure.in: Use case case ... esac for  checking Visual C++.
+        * configure.in: Use case ... esac for  checking Visual C++.
         When ${CC} contains options it was not recognize.
 
 1999-03-07 Paul Eggert
