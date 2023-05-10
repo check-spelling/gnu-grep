@@ -3551,7 +3551,7 @@
 
         * check.sh, scriptgen.awk: fix grep paths.
 
-        * change the directory strucure: grep is now in src to comply with
+        * change the directory structure: grep is now in src to comply with
         gettext.m4.
 
         * grep.c version.c [VERSION]: got rid of version.c,
