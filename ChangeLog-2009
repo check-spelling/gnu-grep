@@ -2764,7 +2764,7 @@
 
 1999-02-10 Alain Magloire
 
-        * bootstrap/{Makefile{try,am},REAMDE} : skeleton
+        * bootstrap/{Makefile{try,am},README} : skeleton
         provided for system lacking the tools to autoconfigure.
 
         * src/{e,f,}grepmat.c: added guard [HAVE_CONFIG_H]
